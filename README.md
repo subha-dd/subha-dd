@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available [here](https://github.com/abhisek-13?tab=repositories)
 
-- 📫 You can reach me at abhisekmaharana9861@gmail.com
+- 📫 You can reach me at subhabratadash.22@gmail.com
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/15SWNOapSvogmbyrF1_dSDM1b1Ro8iOPW/view)
 
