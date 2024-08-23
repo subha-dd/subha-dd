@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 <img src="https://static.wixstatic.com/media/3eee0b_8b6780c6bd8245ecafdbe55d8db7e2df~mv2.gif" align="right" width = 370px />
 
-- 🔭 I’m currently working on MLOPs in Generative AI.
+- 🔭 I’m currently working on Deep Learning and Neural Network.
 
-- 🌱 I’m currently learning Generative AI, Langchain, LLM, and Transformers.
+- 🌱 I’m currently learning Transformer
 
 - 👨‍💻 All of my projects are available [here](https://github.com/abhisek-13?tab=repositories)
 
