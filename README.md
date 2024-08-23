@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   
 <a href="https://www.linkedin.com/in/subhabrata-dash-22sd02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhisek-maharana/" height="30" width="40" /></a>
 
-<a href="https://www.codechef.com/users/subhabratadash" target="blank"><img align="center" src="" alt="https://www.codechef.com/users/subhabratadash" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/subhabratadash" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FCodeChef-Admin&psig=AOvVaw3l-W_BAuW55spJ1vy0NSLh&ust=1724512634333000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjKjKq0i4gDFQAAAAAdAAAAABAe" alt="https://www.codechef.com/users/subhabratadash" height="30" width="40" /></a>
   
 <a href="https://www.hackerrank.com/profile/subhabratadash_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/subhabratadash_1" height="30" width="40" /></a>
 
