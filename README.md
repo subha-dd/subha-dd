@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 📫 You can reach me at subhabratadash.22@gmail.com
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/15SWNOapSvogmbyrF1_dSDM1b1Ro8iOPW/view)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1CBWAeSxibSHf6DicNBZO8T9x7SB-k-0C/view?usp=drive_link)
 
 - ⚡ Fun fact "As an AI engineer, I've trained models to generate poetry, write music, and even create artwork! 🤖🎨🎶 Excited to continue pushing the boundaries of AI creativity and innovation! #AIExplorer"
 
