@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   
 <a href="https://www.linkedin.com/in/subhabrata-dash-22sd02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhisek-maharana/" height="30" width="40" /></a>
 
-<a href="https://www.codechef.com/users/subhabratadash" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons8.com%2Ficon%2FO4SEeX66BY8o%2Fcodechef&psig=AOvVaw1h1u20w2HaVFgfYeBKfKrf&ust=1724511967631000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjJi-uxi4gDFQAAAAAdAAAAABAJ" alt="https://www.codechef.com/users/subhabratadash" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/subhabratadash" target="blank"><img align="center" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons8.com%2Ficon%2FO4SEeX66BY8o%2Fcodechef&psig=AOvVaw1h1u20w2HaVFgfYeBKfKrf&ust=1724511967631000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjJi-uxi4gDFQAAAAAdAAAAABAJ](https://www.svgrepo.com/svg/330182/codechef)" alt="https://www.codechef.com/users/subhabratadash" height="30" width="40" /></a>
   
 <a href="https://www.hackerrank.com/profile/subhabratadash_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/subhabratadash_1" height="30" width="40" /></a>
 
