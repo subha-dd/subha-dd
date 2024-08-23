@@ -37,10 +37,15 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://x.com/AbhisekMah49994" target="blank"><img align="center" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?size=338&ext=jpg&ga=GA1.1.1413502914.1719792000&semt=ais_user" alt="https://x.com/AbhisekMah49994" height="30" width="40" /></a>
+  
 <a href="https://www.linkedin.com/in/subhabrata-dash-22sd02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhisek-maharana/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/subhabratadash" target="blank"><img align="center" src="https://www.pinterest.com/pin/codechef-codechef--554646510333611675/" alt="https://www.codechef.com/users/subhabratadash" height="30" width="40" /></a>
+
+<a href="https://www.codechef.com/users/subhabratadash" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons8.com%2Ficon%2FO4SEeX66BY8o%2Fcodechef&psig=AOvVaw1h1u20w2HaVFgfYeBKfKrf&ust=1724511967631000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjJi-uxi4gDFQAAAAAdAAAAABAJ" alt="https://www.codechef.com/users/subhabratadash" height="30" width="40" /></a>
+  
 <a href="hhttps://www.hackerrank.com/profile/subhabratadash_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/subhabratadash_1" height="30" width="40" /></a>
+
 <a href="https://leetcode.com/u/SubhabrataDash/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/SubhabrataDash/" height="30" width="40" /></a>
+
 <a href="https://www.geeksforgeeks.org/user/abhisekmah940k/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/abhisekmah940k/" height="30" width="40" /></a>
 </p>
 
