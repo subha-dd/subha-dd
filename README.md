@@ -37,10 +37,15 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://x.com/AbhisekMah49994" target="blank"><img align="center" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?size=338&ext=jpg&ga=GA1.1.1413502914.1719792000&semt=ais_user" alt="https://x.com/AbhisekMah49994" height="30" width="40" /></a>
+  
 <a href="https://www.linkedin.com/in/subhabrata-dash-22sd02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhisek-maharana/" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/abhisekmaharana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/abhisekmaharana" height="30" width="40" /></a>
+
+<a href="https://www.codechef.com/users/subhabratadash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.codechef.com/users/subhabratadash" height="30" width="40" /></a>
+
 <a href="https://www.hackerrank.com/profile/abhisekmaharana1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/abhisekmaharana1" height="30" width="40" /></a>
+
 <a href="https://leetcode.com/u/Abhisek_p13/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/Abhisek_p13/" height="30" width="40" /></a>
+
 <a href="https://www.geeksforgeeks.org/user/abhisekmah940k/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/abhisekmah940k/" height="30" width="40" /></a>
 </p>
 
