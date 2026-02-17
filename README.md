@@ -35,7 +35,7 @@ Tech: Next.js, TypeScript, WebRTC
 - Built low-latency audio/video communication system  
 - Designed scalable frontend architecture  
 
-Live: https://nice-chat-rho.vercel.app
+
 
 ---
 
@@ -45,7 +45,7 @@ Tech: React, MongoDB, Docker
 - Implemented CI/CD using GitHub Actions  
 - Containerized application using Docker  
 
-Live: https://shareprompt.vercel.app
+
 
 ---
 
