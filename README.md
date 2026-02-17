@@ -13,16 +13,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Subhabrata</h1>
-<h3 align="center">A passionate AI/ML Developer from India</h3>
+<h3 align="center">Java Full Stack Developer focused on building scalable backend systems and responsive web applications.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisek-13&label=Profile%20views&color=0e75b6&style=flat" alt="abhisek-13" /> </p>
 
 <img src="https://static.wixstatic.com/media/3eee0b_8b6780c6bd8245ecafdbe55d8db7e2df~mv2.gif" align="right" width = 370px />
 
-- 🔭 I’m currently working on Deep Learning and Neural Network.
+- 💻 Working with Java, Spring Boot, React, and REST APIs
 
-- 🌱 I’m currently learning Transformer
+- 📊 Experience in backend systems and data pipelines
+
+- 🌱 Learning system design and cloud technologies
+
+- 🚀 Open to Software Engineer / Backend / Full Stack roles
 
 - 👨‍💻 All of my projects are available [here](https://github.com/subha-dd?tab=repositories)
 
